@@ -1,4 +1,4 @@
-"<h2>A [adjective] programmer thought he knew everything and [verb] at the [noun]</h2>"
+"<h2>A [adjective] programmer thought he knew everything and [verb] the [noun]</h2>"
 
 var questions = 3;
 var questionsLeft = ' [' + questions + 'questions left]';
